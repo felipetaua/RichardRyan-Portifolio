@@ -50,7 +50,7 @@ git clone https://github.com/felipetaua/portifolio-fotografia.git
 
 ### Contato
 
-Caso deseje entrar em contato, você pode me encontrar no [linkedin]([in/felipetaua](https://www.linkedin.com/in/felipetaua/)).
+Caso deseje entrar em contato, você pode me encontrar no [linkedin]([https://in/felipetaua](https://www.linkedin.com/in/felipetaua/)).
 
 ### Licença
 
