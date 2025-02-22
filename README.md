@@ -39,13 +39,13 @@ Para executar o **Portfólio de Fotógrafo Felipe Tauá** localmente, use o coma
 **Linux e macOS:**
 
 ```bash
-sudo git clone https://github.com/felipetaua/portifolio-fotografia.git
+sudo git clone https://github.com/felipetaua/RichardRyan-Portifolio.git
 ```
 
 **Windows:**
 
 ```bash
-git clone https://github.com/felipetaua/portifolio-fotografia.git
+git clone https://github.com/felipetaua/RichardRyan-Portifolio.git
 ```
 
 ### Contato
