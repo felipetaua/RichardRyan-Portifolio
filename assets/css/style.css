@@ -331,7 +331,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .header {
-  position: fixed;
+  /*position: fixed;*/
   top: 0;
   left: 0;
   width: 100%;
@@ -1175,7 +1175,9 @@ body.active { overflow: hidden; }
    * HEADER
    */
 
-  .header { padding-block: 30px; }
+  .header {
+    padding-block: 30px; 
+  }
 
   .navbar {
     padding: 40px;
